@@ -1,0 +1,4 @@
+require 'capybara/rspec'
+
+
+
